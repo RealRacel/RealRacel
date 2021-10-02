@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Racel.
+- 👀 I’m interested in reverse engining.
+- 🌱 I’m currently learning everything.
